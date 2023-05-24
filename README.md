@@ -1,2 +1,2 @@
 # MyStarterHome
-This is school project 
+This is a school project assignment
